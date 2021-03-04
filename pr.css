@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(94, 94, 114);
+    font-family: "Raleway";
+    font-weight: 300;
+    font-size: 16px;
+    color:rgb(49, 51, 53);
+    -webkit-font-smoothing : antialiased;
+    -webkit-overflow-scrolling: touch;
+
+    
+
+}
+.mainn {
+    background-color: aliceblue;
+    border-radius: 30px;
+    
+}
+.barss {
+    background-color: rgb(49, 51, 53);
+    border-radius: 30px 50px 50px 30px; 
+    background-size: 100%;
+    
+    -webkit-background-size : cover;
+    -moz-background-size : cover;
+    -o-background-size : cover;
+    -ms-background-size : cover;
+}
+
+a {
+    color: antiquewhite;
+    font-style: initial;
+}
+
+.nav {
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-bottom: 100px;
+    
+}
+.nav-link {
+   
+    background-color:rgb(49, 51, 53);
+    border: 0ch;
+    color: rosybrown;
+    text-align: left;
+    font-weight: bold;
+}
+.nav-link:hover {
+    background-color:rgb(33, 35, 37);
+}
+
+.imgcontainer {
+    border-radius: 20px;
+}
+.then {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.gray {
+    color: rgb(136, 151, 167);
+}
+
+.coin {
+    color: rgb(179, 152, 2);
+}
+.energ {
+    color: rgb(15, 150, 150);
+    font-weight: bold;
+}
+.hear {
+    color: rgb(204, 37, 73);
+    font-weight: bold;
+}
+.border {
+    border-color: rgb(136, 151, 167);
+    border-radius: 20px;
+}
+.progresscolor {
+    background-color: rgb(23, 201, 201);
+    height: 20px;
+}
+.progresscolor2 {
+    background-color: rgb(214, 214, 230);
+}
+.borderprogress {
+    border-radius: 50px;
+}
+.perfectblue {
+    background-color: rgb(6, 40, 68);
+    color: seashell;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 100px 100px 100px 100px;
+    background-color: rgb(119, 216, 187);
+    margin: 20px 20px 10px 10px;
+}
